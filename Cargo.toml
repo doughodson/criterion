@@ -1,5 +1,5 @@
 [package]
-name = "bench"
+name = "benchmarks"
 version = "0.1.0"
 authors = ["Doug Hodson <doug@sidechannel.net>"]
 edition = "2018"
